@@ -1,44 +1,38 @@
-# [Project Name] 🎯
+# Taste Buds 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Weaslies
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Fathima Marva K.T - EMEA College of arts and science
+- Member 2: Hilfa Fathima P.M - EMEA College of arts and science
+
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+weaslies.vercel.app
+
 
 ### Project Description
-[2-3 lines about what your project does]
+Our webpage is a food recipe builder. when the user inputs the incredients they have, our webpage can provide various food items which can be made using those incredients.
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
-
+We are trying to solve the confusions of the users while coming to the cooking process. if they have only some incredients, and if they have trouble and confusion for cooking with limited resources, our webpage is a solution for them. 
 ### The Solution
-[How are you solving it? Keep it fun!]
+We can provide various kinds of food recipes and steps, despite whatever incredients are available for the users.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- HTML, CSS, JAVA SCRIPT
+- DEEP SEEK R1, GEMINI AI, CLOUD SERVER
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
-For Software:
+For Software:html,css, java script
 # Installation
-[commands]
+
 
 # Run
 [commands]
@@ -91,9 +85,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Fathima Marva K.T: CODING AND BUGGING
+- Hilfa Fathima P.M: COMMAND PROMPT AND CONTENT DEVOLOPEMENT
+
 
 ---
 Made with ❤️ at TinkerHub
